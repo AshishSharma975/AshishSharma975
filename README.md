@@ -1,108 +1,118 @@
 <!--- README.md for Ashish Sharma --->
 
 <div align="center">
-  <h1>Hi 👋, I'm Ashish Sharma</h1>
-  <p><strong>Frontend Developer • 3D Web (Three.js / WebGL) • GSAP Enthusiast</strong></p>
 
-  <!-- Badges -->
-  <p>
-    <a href="https://github.com/AshishSharma975"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ashish8822?label=Follow&style=social"></a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BC49eeli4StK8Me7Bta%2F1tA%3D%3D"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-    <a href="mailto:ashish8389sharma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashishsharma975@gmail.com-red?logo=gmail"></a>
-  </p>
+<img src="https://readme-hero-generator.vercel.app/api/hero?text=Frontend%20%26%203D%20Web%20Developer&theme=neon&font=bold" width="100%" />
 
-  <!-- Optional Hero GIF -->
-  <!-- Replace the link below with your own GIF or remove this block -->
-  <p>
-    <img src="YOUR_HERO_GIF_URL" alt="hero" width="650" style="border-radius:12px;">
-  </p>
+<h2>A passionate Frontend & 3D Web Developer</h2>
+
+![Profile views](https://komarev.com/ghpvc/?username=ashish8822&color=brightgreen)
+
 </div>
 
 ---
 
-## 🚀 About Me
-I’m an innovative Frontend Developer specializing in **3D Web Experiences**, **WebGL**, and **high-performance animations**.  
-I love building immersive interfaces using **Three.js, GSAP, React**, and creative coding techniques.
+## 👋 Hi, I'm **Ashish Sharma**
+
+I specialize in building **immersive 3D web experiences**, creative interfaces, and modern UI animations using  
+**Three.js, WebGL, GSAP, and React.js**.  
+I love exploring physics-based animations, shaders, and high-performance rendering.
 
 ---
 
-## 📌 Table of Contents
-- [Key Projects](#-key-projects)
-- [Skills & Tools](#-skills--tools)
-- [Work Style](#-work-style)
-- [Quick Start Setup](#-quick-start-setup)
-- [Contact](#-contact)
-- [GitHub Stats](#-github-stats)
+## 📞 Contact & Socials
+
+### **📌 LinkedIn**
+🔗 https://www.linkedin.com/in/ashish8822  
+
+### **📌 Email**
+📩 ashish8389sharma@gmail.com  
+
+### **📌 Mobile**
+📱 +91-8827718774  
+
+### **Connect with me**
+<p>
+  <a href="https://www.linkedin.com/in/ashish8822"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:ashish8389sharma@gmail.com"><img height="40" src="https://img.icons8.com/ios-filled/50/ffffff/email.png" /></a>
+  <a href="https://github.com/ashish8822"><img height="40" src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 ---
 
-## 🚀 Key Projects
+---
 
-### 🔹 Blob Mixer · Three.js · React  
-- Built an interactive 3D “art toy” where users sculpt and paint blobs.  
-- Smooth physics interactions & real-time rendering optimizations.  
-
+## 🚀 What I'm Working On
+▷ Interactive 3D experiences (Three.js + WebGL)  
+▷ Shader-based animations & physics-driven UI  
+▷ High-performance React interfaces  
+▷ GSAP ScrollTrigger storytelling websites  
 
 ---
 
-### 🔹 Zajno 3D Experience · Three.js · GSAP  
-- Advanced shader-driven 3D visual experience.  
-- Cinematic lighting and high FPS performance.  
-- **Repo:** YOUR_REPO_LINK  
+## 🔥 Key Projects
+
+### 🎨 **Blob Mixer – Three.js + React**
+- Interactive 3D art-toy builder  
+- Dynamic textures, physics interactions  
+- Optimized real-time rendering  
+🔗 Demo: *your link here*  
 
 ---
 
-## 🛠 Skills & Tools
+### ✨ **Zajno 3D Experience – Three.js + GSAP**
+- Shader-driven visuals  
+- Cinematic lighting & smooth animations  
 
-<details>
-<summary>Click to expand</summary>
+---
+
+### 🌍 **Planet Visualization – Three.js**
+- Realistic planetary rendering  
+- User-controlled camera and UI  
+
+---
+
+## 🛠 Tech Stack
 
 ### **Languages**
-- JavaScript (ES6+), HTML5, CSS3  
+`JavaScript` • `HTML5` • `CSS3`
 
 ### **Frontend**
-- React.js  
-- Tailwind CSS  
-- Bootstrap  
+`React.js` • `Tailwind` • `Bootstrap`
 
 ### **3D & Animations**
-- Three.js  
-- WebGL  
-- GSAP  
-- Shader programming  
+`Three.js` • `WebGL` • `GSAP` • `Shaders`
 
 ### **Tools**
-- Git, GitHub  
-- Figma  
-- Photoshop  
-- Blender (basic)  
-- Vite, Webpack  
-
-</details>
+`Git` • `GitHub` • `Figma` • `Photoshop` • `Blender (basic)`  
 
 ---
 
-## ⚙️ Work Style  
-- Start with a lightweight prototype (Three.js sandbox)  
-- Build visuals (shaders, lighting, materials)  
-- Add React components for interactions  
-- Optimize performance (LOD, texture compression, post-processing)
+## ⚙️ My Workflow
+1. Prototype → Sandbox → Visual Experiments  
+2. Build shaders, lighting, physics interactions  
+3. Wrap into React components  
+4. Optimize FPS, compress textures, LOD, cleanup GC  
 
 ---
 
-## 🧩 Quick Start Setup (Example for Three.js Project)
+## 📈 GitHub Stats
 
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ashish8822&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8822&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+---
+
+## 🧩 Quick Start (Three.js Project)
 ```bash
-# Clone  
 git clone https://github.com/ashish8822/YOUR_REPO.git
 cd YOUR_REPO
 
-# Install  
 npm install
-
-# Run dev  
 npm run dev
 
-# Build  
-npm run build
 
