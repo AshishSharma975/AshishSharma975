@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="100%">
+  <defs>
+    <linearGradient id="grad">
+      <stop offset="0%" stop-color="#8df7ff">
+        <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7ef8c0">
+        <animate attributeName="offset" values="0.5;0;0.5" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#b69aff">
+        <animate attributeName="offset" values="1;0;1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="20" y="55" font-size="32" font-family="Inter, sans-serif" fill="url(#grad)" font-weight="700">
+    A passionate Frontend & 3D Web Developer
+  </text>
+</svg>
+
