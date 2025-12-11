@@ -75,5 +75,5 @@ I build immersive **3D web experiences**, shader visuals, interactive UI and rea
 </div>
 
 <div align="center" style="margin-top:8px;">
-  Made with ❤️ by **Ashish Sharma**
+
 </div>
