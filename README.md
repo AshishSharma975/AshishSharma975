@@ -44,12 +44,6 @@ I build **immersive 3D web experiences**, shader-based visuals, physics-driven i
 - Real-time animation + noise deformation  
 - Smooth, minimal, interactive art-flow  
 
-### ✔ Features  
-- Drag, blend, sculpt blob shapes  
-- Live texture deformation  
-- Dynamic motion + physics feel  
-- Clean minimal UI  
-
 > If GIF doesn’t load: https://raw.githubusercontent.com/ashish8822/blob-mixer/main/assets/blob-demo.gif
 
 ---
@@ -68,9 +62,6 @@ I build **immersive 3D web experiences**, shader-based visuals, physics-driven i
 - Color picker (multiple jersey variants)  
 - Hotspot-based info highlights  
 - Full-size detail viewer  
-- Music on/off control  
-- Optimized HDR lighting for a studio-like feel  
-- Smooth UI transitions + refined animations  
 
 ### ✔ Goal  
 To blend **design + engineering** for a cinematic, seamless, intuitive, and enjoyable 3D product interaction experience.
