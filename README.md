@@ -4,10 +4,10 @@
 
   <!-- SIDEBAR -->
   <div style="width:300px; min-width:260px; border-radius:14px; padding:18px; background:#0b0c10; color:#dfe9f7; box-shadow:0 12px 35px rgba(0,0,0,0.55)">
-    
+
     <div style="text-align:center; margin-bottom:12px;">
-      <!-- Profile photo -->
-      <img src="./assets/profile.jpg" alt="Ashish Sharma" style="width:110px; height:110px; object-fit:cover; border-radius:999px; border:3px solid rgba(110,240,255,0.15)"/>
+      <!-- Profile photo (upload ./assets/profile.jpg) -->
+      <img src="./assets/profile.jpg" alt="Ashish Sharma" style="width:110px; height:110px; object-fit:cover; border-radius:999px; border:3px solid rgba(110,240,255,0.15);" />
     </div>
 
     <h2 style="margin:8px 0 4px; font-family:Inter, Arial; color:#e8f7ff;">Ashish Sharma</h2>
@@ -36,7 +36,7 @@
     </div>
 
     <div style="margin-top:18px; text-align:center;">
-      <a href="https://github.com/AshishSharma975" 
+      <a href="https://github.com/AshishSharma975"
          style="display:inline-block; padding:9px 12px; background:#101a2a; color:#9fefff; border-radius:8px; text-decoration:none; font-weight:600;">
          View GitHub →
       </a>
@@ -49,10 +49,10 @@
   <div style="flex:1;">
 
     <!-- HOLOGRAM BANNER -->
-    <img src="./assets/banner.svg" alt="Hologram banner" style="width:100%; border-radius:14px; margin-bottom:18px;"/>
+    <img src="./assets/banner.svg" alt="Hologram banner" style="width:100%; border-radius:14px; margin-bottom:18px;" />
 
     <!-- ANIMATED HEADER -->
-    <img src="./assets/animated-header.svg" alt="Animated header" style="width:100%; margin-bottom:18px;"/>
+    <img src="./assets/animated-header.svg" alt="Animated header" style="width:100%; margin-bottom:18px;" />
 
     <p style="color:#cfe8ff; font-size:16px;">
       I build immersive 3D web experiences and high-performance UIs using <strong>Three.js</strong>, <strong>WebGL</strong>, <strong>GSAP</strong>, and <strong>React</strong>.
@@ -60,13 +60,13 @@
 
 
     <!-- Blob Mixer Project -->
-    <section style="margin-top:18px; background:#07101a; padding:16px; border-radius:12px; box-shadow:0 12px 30px rgba(0,0,0,0.55)">
+    <section style="margin-top:18px; background:#07101a; padding:16px; border-radius:12px; box-shadow:0 12px 30px rgba(0,0,0,0.55);">
       <h3 style="color:#dffeff; margin-top:0;">🎨 Blob Mixer — Interactive 3D Art Toy</h3>
 
       <div style="display:flex; gap:14px; flex-wrap:wrap; align-items:center;">
-        
-        <img src="./assets/blob-demo.gif" alt="Blob Mixer demo" 
-             style="width:480px; max-width:100%; border-radius:10px; box-shadow:0 8px 30px rgba(0,0,0,0.55)"/>
+
+        <img src="./assets/blob-demo.gif" alt="Blob Mixer demo"
+             style="width:480px; max-width:100%; border-radius:10px; box-shadow:0 8px 30px rgba(0,0,0,0.55);" />
 
         <div style="flex:1; min-width:260px; color:#cfe8ff;">
           <p>
@@ -87,13 +87,13 @@
 
 
     <!-- 3D Jersey Showcase -->
-    <section style="margin-top:18px; background:#07101a; padding:16px; border-radius:12px; box-shadow:0 12px 30px rgba(0,0,0,0.55)">
+    <section style="margin-top:18px; background:#07101a; padding:16px; border-radius:12px; box-shadow:0 12px 30px rgba(0,0,0,0.55);">
       <h3 style="color:#dffeff; margin-top:0;">🧥 3D Jersey Showcase — Product Viewer</h3>
 
       <div style="display:flex; gap:14px; flex-wrap:wrap; align-items:center;">
 
-        <img src="./assets/jersey-preview.gif" alt="Jersey demo" 
-             style="width:480px; max-width:100%; border-radius:10px; box-shadow:0 8px 30px rgba(0,0,0,0.55)"/>
+        <img src="./assets/jersey-preview.gif" alt="Jersey demo"
+             style="width:480px; max-width:100%; border-radius:10px; box-shadow:0 8px 30px rgba(0,0,0,0.55);" />
 
         <div style="flex:1; min-width:260px; color:#cfe8ff;">
           <p>
@@ -115,3 +115,4 @@
   </div>
 
 </div>
+
