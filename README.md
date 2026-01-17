@@ -70,12 +70,13 @@ I build immersive **3D web experiences**, shader visuals, interactive UI and rea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishSharma975&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishSharma975&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSharma975&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSharma975&layout=compact&theme=github_dark" />
 </p>
+
 
 
 ## 🌐 Connect With Me
@@ -87,9 +88,7 @@ I build immersive **3D web experiences**, shader visuals, interactive UI and rea
   <a href="mailto:ashish8389sharma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ashish8389sharma@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/AshishSharma975">
-    <img src="https://img.shields.io/badge/GitHub-AshishSharma975-black?style=for-the-badge&logo=github" />
-  </a>
+ 
 </p>
 
 <p align="center">
