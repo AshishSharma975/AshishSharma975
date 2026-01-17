@@ -1,4 +1,3 @@
-isko theek kro aur thoda interactive banao mai code de ra hu info sab same rahega baki bas design aacha banao iska <!-- Final Clean README — GitHub-supported (no inline CSS that breaks) -->
 
 <div align="center">
 
