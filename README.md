@@ -71,9 +71,6 @@ I build immersive **3D web experiences**, shader visuals, interactive UI and rea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSharma975&layout=compact&theme=tokyonight" height="160" />
 </p>
 
-## 🔻 Footer
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
