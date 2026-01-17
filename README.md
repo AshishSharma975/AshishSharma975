@@ -1,4 +1,3 @@
-isko theek kro aur thoda interactive banao mai code de ra hu info sab same rahega baki bas design aacha banao iska <!-- Final Clean README — GitHub-supported (no inline CSS that breaks) -->
 
 <div align="center">
 
@@ -59,15 +58,18 @@ I build immersive **3D web experiences**, shader visuals, interactive UI and rea
 
 ---
 
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,threejs,gsap,html,css,git,github,blender,figma" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishSharma975&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSharma975&layout=compact&theme=tokyonight" height="150" />
-</div>
-
----
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishSharma975&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSharma975&layout=compact&theme=tokyonight" height="160" />
+</p>
 
 ## 🔻 Footer
 
