@@ -83,18 +83,17 @@ I build immersive **3D web experiences**, shader visuals, interactive UI and rea
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashish8822">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Sharma-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:ashish8389sharma@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ashish8389sharma@gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
   </a>
- 
+  <a href="https://github.com/AshishSharma975">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;3D+Web+Developer;Three.js+%7C+GSAP+%7C+WebGL" />
-</p>
 
 <p align="center">
-  ✨ <b>Building immersive web experiences.</b> ✨
+  <b>Building immersive web experiences.</b> 
 </p>
