@@ -1,17 +1,20 @@
+isko theek kro aur thoda interactive banao mai code de ra hu info sab same rahega baki bas design aacha banao iska <!-- Final Clean README — GitHub-supported (no inline CSS that breaks) -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ashish%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="./assets/banner.svg" alt="Hologram banner" style="max-width:100%;" />
 
 </div>
 
----
+<div align="center">
+<img src="./assets/animated-header.svg" alt="Animated header" style="max-width:100%; margin-top:14px;" />
+</div>
 
-## 👋 Hi, I'm **Ashish Sharma**
-**Frontend Developer • 3D Web • Three.js • GSAP**
+# 👋 Hi, I'm **Ashish Sharma**
+**Frontend Developer • 3D Web (Three.js / WebGL) • GSAP**
 
-📧 **Email:** ashish8389sharma@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ashish8822  
-🐙 **GitHub:** https://github.com/AshishSharma975  
+📧 ashish8389sharma@gmail.com • 📱 +91 8827718774  
+🔗 https://www.linkedin.com/in/ashish8822/ • 🐙 https://github.com/AshishSharma975
 
 ---
 
@@ -22,50 +25,52 @@ I build immersive **3D web experiences**, shader visuals, interactive UI and rea
 ---
 
 ## 🎨 Featured — Blob Mixer (Interactive)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AshishSharma975/AshishSharma975/main/assets/blob-demo.gif" width="700" />
-</p>
+<div align="center">
+  <img src="./assets/blob-demo.gif" alt="Blob Mixer" width="680" />
+</div>
 
-🔹 Real-time GLSL deformation  
-🔹 Noise-powered animation  
-🔹 Drag & sculpt interaction  
+**Live:** https://lnkd.in/dBphVcUA  
+**Code:** https://lnkd.in/dq_c6ENX
 
-🔗 **Live:** https://lnkd.in/dBphVcUA  
-💻 **Code:** https://lnkd.in/dq_c6ENX  
+**Highlights**
+- Real-time GLSL deformation  
+- Noise-powered animation & blending  
+- Minimal UI, drag & sculpt interactions
 
 ---
 
 ## 🧥 3D Jersey Showcase (Product Viewer)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AshishSharma975/AshishSharma975/main/assets/jersey-preview.gif" width="700" />
-</p>
+<div align="center">
+  <img src="./assets/jersey-preview.gif" alt="Jersey Showcase" width="680" />
+</div>
 
-🔹 360° Product View  
-🔹 Color Switcher  
-🔹 HDR Lighting  
-🔹 Fullscreen Experience  
+**Live:** https://jersy.vercel.app/  
+**Code:** https://lnkd.in/ddQSi8Ac
 
-🔗 **Live:** https://jersy.vercel.app  
-💻 **Code:** https://lnkd.in/ddQSi8Ac  
+**Highlights**
+- 360° product view, color picker, hotspots  
+- HDR-like lighting, music toggle, full-screen viewer
 
 ---
 
 ## 🛠 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,threejs,gsap,html,css,git,github,blender,figma" />
-</p>
+**JavaScript · React · Three.js · WebGL · GSAP · GLSL**  
+**Git · GitHub · Figma · Blender · Photoshop · Vite**
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishSharma975&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSharma975&layout=compact&theme=tokyonight" height="160" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishSharma975&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSharma975&layout=compact&theme=tokyonight" height="150" />
+</div>
+
+---
 
 ---
 
 ## 🔻 Footer
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AshishSharma975/AshishSharma975/main/assets/footer-left.png" width="130" />
   &nbsp;&nbsp;&nbsp;
@@ -73,9 +78,5 @@ I build immersive **3D web experiences**, shader visuals, interactive UI and rea
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;3D+Web+Enthusiast;Three.js+%7C+GSAP+%7C+WebGL" />
-</p>
-
-<p align="center">
-  ✨ <i>Building experiences, not just websites.</i> ✨
+  <sub>🚀 Built with ❤️ using Three.js, GSAP & Creativity</sub>
 </p>
