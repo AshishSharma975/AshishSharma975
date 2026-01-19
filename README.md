@@ -60,7 +60,7 @@ I build immersive **3D web experiences**, shader visuals, interactive UI and rea
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,threejs,gsap,html,css,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,threejs,html,css,git,github,figma" />
 </p>
 
 ---
