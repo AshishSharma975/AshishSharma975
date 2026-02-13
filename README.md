@@ -10,15 +10,12 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Ashish Sharma**
+# 👋 Hi, I'm Ashish Sharma
 
 **Frontend Developer • 3D Web (Three.js / WebGL / React) • GSAP**
 
-[![Email](https://img.shields.io/badge/Email-ashish8389sharma%40gmail.com-7cf7ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish8389sharma@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-%2B91%208827718774-9b8cff?style=for-the-badge&logo=phone&logoColor=white)](tel:+918827718774)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish8822/)
-
-</div>
+📧 ashish8389sharma@gmail.com • 📱 +91 8827718774  
+🔗 https://www.linkedin.com/in/ashish8822/
 
 ---
 
@@ -45,6 +42,7 @@ I build immersive 3D web experiences, shader visuals, interactive UI and real-ti
 
 **Live:** https://jersy.vercel.app/  
 **Code:** https://lnkd.in/ddQSi8Ac  
+
 
 *Highlights*
 - 360° product view, color picker, hotspots  
