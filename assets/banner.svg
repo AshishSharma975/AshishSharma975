@@ -14,8 +14,9 @@
 
   <rect width="100%" height="100%" fill="#070719"/>
   
-  <text x="70" y="210" font-size="28" font-family="Inter, sans-serif" fill="#aee6ff">
+ <text x="70" y="215" font-size="36" font-family="Inter, sans-serif" fill="url(#g)" font-weight="600" filter="url(#glow)">
   Frontend Developer • Crafting Immersive 3D Web
 </text>
+
 
 </svg>
