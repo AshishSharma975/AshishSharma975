@@ -68,10 +68,9 @@ I build immersive **3D web experiences**, shader visuals, interactive UI and rea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Commits-1000+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-3D%20Web-orange?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8822&layout=compact&theme=tokyonight"/>
 </p>
+
 
 
 ## 🌐 Connect With Me
