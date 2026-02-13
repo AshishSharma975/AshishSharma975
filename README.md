@@ -17,8 +17,8 @@
 ---
 
 ## 🚀 About Me
-I build immersive *3D web experiences*, shader visuals, interactive UI and real-time animations using  
-*Three.js · WebGL · GSAP · GLSL · React*.
+I build immersive frontend and *3D web experiences*, shader visuals, interactive UI and real-time animations using  
+*Three.js · WebGL · GSAP  · React*.
 
 ---
 
