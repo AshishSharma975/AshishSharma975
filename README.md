@@ -8,41 +8,42 @@
 <img src="./assets/animated-header.svg" alt="Animated header" style="max-width:100%; margin-top:14px;" />
 </div>
 
-<div align="center">
+# 👋 Hi, I'm *Ashish Sharma*
+*Frontend Developer • 3D Web (Three.js / WebGL / React) • GSAP*
 
-# 👋 Hi, I'm Ashish Sharma
-
-**Frontend Developer • 3D Web (Three.js / WebGL / React) • GSAP**
-
-📧 ashish8389sharma@gmail.com • 📱 +91 8827718774  
-🔗 https://www.linkedin.com/in/ashish8822/
+📧 ashish8389sharma@gmail.com •    📱 +91 8827718774  
+🔗 https://www.linkedin.com/in/ashish8822/ 
 
 ---
 
 ## 🚀 About Me
-
-I build immersive 3D web experiences, shader visuals, interactive UI and real-time animations using  
-**Three.js • WebGL • GSAP • GLSL • React**.
+I build immersive *3D web experiences*, shader visuals, interactive UI and real-time animations using  
+*Three.js · WebGL · GSAP · GLSL · React*.
 
 ---
 
 ## 🎨 Featured — Blob Mixer (Interactive)
+<div align="center">
+  <img src="./assets/blob-demo.gif" alt="Blob Mixer" width="680" />
+</div>
 
-**Live:** https://lnkd.in/dBphVcUA  
-**Code:** https://lnkd.in/dq_c6ENX  
+*Live:* https://lnkd.in/dBphVcUA  
+*Code:* https://lnkd.in/dq_c6ENX
 
-**Highlights**
+*Highlights*
 - Real-time GLSL deformation  
 - Noise-powered animation & blending  
-- Minimal UI, drag & sculpt interactions  
+- Minimal UI, drag & sculpt interactions
 
 ---
 
-## 👕 3D Jersey Showcase (Product Viewer)
+## 🧥 3D Jersey Showcase (Product Viewer)
+<div align="center">
+  <img src="./assets/jersey-preview.gif" alt="Jersey Showcase" width="680" />
+</div>
 
-**Live:** https://jersy.vercel.app/  
-**Code:** https://lnkd.in/ddQSi8Ac  
-
+*Live:* https://jersy.vercel.app/  
+*Code:* https://lnkd.in/ddQSi8Ac
 
 *Highlights*
 - 360° product view, color picker, hotspots  
