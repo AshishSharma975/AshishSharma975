@@ -9,6 +9,7 @@
 </div>
 
  👋 Hi, I'm Ashish Sharma
+ 
 *Frontend Developer • 3D Web (Three.js / WebGL / React) • GSAP*
 
 📧 ashish8389sharma@gmail.com •    📱 +91 8827718774  
@@ -24,7 +25,7 @@ I build immersive frontend and *3D web experiences*, shader visuals, interactive
 
 ## 🎨 Featured — Blob Mixer (Interactive)
 <div align="center">
-  <img src="./assets/blob-demo.gif" alt="Blob Mixer" width="680" />
+  <img src="./assets/blob-demo.gif" alt="Blob Mixer" width="681" />
 </div>
 
 *Live:* https://lnkd.in/dBphVcUA  
