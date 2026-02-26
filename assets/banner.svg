@@ -1,42 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 300" width="1400" height="300">
+
   <defs>
-    <linearGradient id="g" x1="0" x2="1">
+    <!-- Gradient -->
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#6ef0ff"/>
       <stop offset="50%" stop-color="#64f7b6"/>
       <stop offset="100%" stop-color="#9a8cff"/>
     </linearGradient>
-<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-  <feGaussianBlur stdDeviation="12" result="blur"/>
-  <feMerge>
-    <feMergeNode in="blur"/>
-    <feMergeNode in="SourceGraphic"/>
-  </feMerge>
-</filter>
+
+    <!-- FIXED Glow Filter (no double sharp text) -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
   </defs>
 
+  <!-- Background -->
   <rect width="100%" height="100%" fill="#070719"/>
-  
-<!-- Glow layer -->
-<text x="70" y="215"
-      font-size="40"
-      font-family="Inter, sans-serif"
-      fill="#7ffcff"
-      filter="url(#glow)"
-      opacity="0.9">
-  Frontend Developer • Crafting Immersive 3D Web
-</text>
 
-<!-- Main sharp text -->
-<text x="70" y="215"
-      font-size="40"
-      font-family="Inter, sans-serif"
-      fill="url(#g)"
-      font-weight="600">
-  Frontend Developer • Crafting Immersive 3D Web
-</text>
+  <!-- Glow Layer (blur only) -->
+  <text x="70" y="215"
+        font-size="40"
+        font-family="Inter, sans-serif"
+        fill="#7ffcff"
+        filter="url(#glow)"
+        opacity="0.9">
+    Frontend Developer • Crafting Immersive 3D Web
+  </text>
 
-
-
+  <!-- Main Sharp Gradient Text -->
+  <text x="70" y="215"
+        font-size="40"
+        font-family="Inter, sans-serif"
+        fill="url(#g)"
+        font-weight="600">
+    Frontend Developer • Crafting Immersive 3D Web
+  </text>
 
 </svg>
