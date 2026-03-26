@@ -8,7 +8,7 @@
 <img src="./assets/animated-header.svg" alt="Animated header" style="max-width:100%; margin-top:14px;" />
 </div>
 
- 👋 Hi,I'm Ashish Sharma
+ 👋 Hi, I'm Ashish Sharma
  
 *Frontend Developer • 3D Web (Three.js / WebGL / React) • GSAP*
 
