@@ -12,7 +12,7 @@
  
 *Frontend Developer • 3D Web (Three.js / WebGL / React) • GSAP*
 
-📧 ashish8389sharma@gmail.com •    📱 +91 8827718774  
+📧 ashish8389sharma@gmail.com •  📱 +91 8827718774  
 🔗 https://www.linkedin.com/in/ashish8822/ 
 
 ---
