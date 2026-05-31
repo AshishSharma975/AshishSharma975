@@ -10,7 +10,7 @@
 
  👋 Hi, I'm Ashish Sharma
  
-*Frontend Developer • 3D Web (Three.js / WebGL / React) • GSAP*
+Full Stack & 3D Web Developer • Building AI-Powered Digital Experiences
 
 📧 ashish8389sharma@gmail.com •  📱 +91 8827718774  
 🔗 https://www.linkedin.com/in/ashish8822/ 
@@ -18,8 +18,9 @@
 ---
 
 ## 🚀 About Me
-I build immersive frontend and *3D web experiences*, shader visuals, interactive UI and real-time animations using  
-*Three.js · WebGL · GSAP  · React*.
+🚀 About Me
+
+Full Stack & 3D Web Developer focused on building scalable applications, interactive 3D experiences, and modern user interfaces. I enjoy turning complex ideas into intuitive digital products.
 
 ---
 
