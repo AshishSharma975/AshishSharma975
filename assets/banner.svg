@@ -4,10 +4,10 @@
   <defs>
     <!-- Gradient -->
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6ef0ff"/>
-      <stop offset="50%" stop-color="#64f7b6"/>
-      <stop offset="100%" stop-color="#9a8cff"/>
-    </linearGradient>
+  <stop offset="0%" stop-color="#EAFBF8"/>
+  <stop offset="50%" stop-color="#B8FFF1"/>
+  <stop offset="100%" stop-color="#F7C58B"/>
+</linearGradient>
 
     <!-- FIXED Glow Filter (no double sharp text) -->
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
@@ -25,7 +25,7 @@
         fill="#7ffcff"
         filter="url(#glow)"
         opacity="0.9">
-    Frontend Developer • Crafting Immersive 3D Web
+    Full Stack & 3D Web Developer • Building AI-Powered Experiences
   </text>
 
   <!-- Main Sharp Gradient Text -->
@@ -34,7 +34,7 @@
         font-family="Inter, sans-serif"
         fill="url(#g)"
         font-weight="600">
-    Frontend Developer • Crafting Immersive 3D Web
+    Full Stack & 3D Web Developer • Building AI-Powered Experiences
   </text>
 
 </svg>
