@@ -129,6 +129,69 @@
 
 </g>
 
+  <!-- 3D SHAPES -->
+
+<!-- Cube Left Top -->
+<g opacity="0.35" stroke="#FBBF24" fill="none" stroke-width="1.2">
+
+  <rect x="35" y="40" width="55" height="55"/>
+  <rect x="55" y="20" width="55" height="55"/>
+
+  <line x1="35" y1="40" x2="55" y2="20"/>
+  <line x1="90" y1="40" x2="110" y2="20"/>
+
+  <line x1="35" y1="95" x2="55" y2="75"/>
+  <line x1="90" y1="95" x2="110" y2="75"/>
+
+</g>
+
+<!-- Pyramid Left Bottom -->
+
+<g opacity="0.35" stroke="#FBBF24" fill="none">
+
+  <polygon points="120,210 80,270 160,270"/>
+
+  <line x1="120" y1="170" x2="80" y2="270"/>
+  <line x1="120" y1="170" x2="160" y2="270"/>
+  <line x1="120" y1="170" x2="120" y2="210"/>
+
+</g>
+
+<!-- Sphere Right Top -->
+
+<g opacity="0.35" stroke="#FBBF24" fill="none">
+
+  <circle cx="1260" cy="70" r="45"/>
+
+  <ellipse cx="1260" cy="70" rx="45" ry="18"/>
+  <ellipse cx="1260" cy="70" rx="18" ry="45"/>
+  <ellipse cx="1260" cy="70" rx="35" ry="45"/>
+  <ellipse cx="1260" cy="70" rx="45" ry="35"/>
+
+</g>
+
+<!-- Torus Right Bottom -->
+
+<g opacity="0.35" stroke="#FBBF24" fill="none">
+
+  <ellipse cx="1280" cy="230" rx="55" ry="28"/>
+  <ellipse cx="1280" cy="230" rx="32" ry="14"/>
+
+</g>
+
+<!-- Extra Floating Particles -->
+
+<g fill="#FBBF24" opacity="0.8">
+
+  <circle cx="500" cy="60" r="2"/>
+  <circle cx="620" cy="120" r="2"/>
+  <circle cx="760" cy="50" r="2"/>
+  <circle cx="900" cy="90" r="2"/>
+  <circle cx="1020" cy="140" r="2"/>
+  <circle cx="700" cy="170" r="2"/>
+
+</g>
+
   <!-- Glow Layer (blur only) -->
  <!-- Glow Layer -->
 <text x="70" y="215"
