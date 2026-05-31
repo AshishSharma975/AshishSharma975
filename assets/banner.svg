@@ -4,9 +4,9 @@
   <defs>
     <!-- Gradient -->
    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-  <stop offset="0%" stop-color="#FFFFFF"/>
-  <stop offset="50%" stop-color="#D1D5DB"/>
-  <stop offset="100%" stop-color="#9CA3AF"/>
+  <stop offset="0%" stop-color="#00F5D4"/>
+  <stop offset="50%" stop-color="#7FFFD4"/>
+  <stop offset="100%" stop-color="#E0FFFF"/>
 </linearGradient>
 
     <!-- FIXED Glow Filter (no double sharp text) -->
