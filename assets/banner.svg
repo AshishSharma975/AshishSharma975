@@ -3,9 +3,9 @@
 
   <defs>
     <!-- Gradient -->
-   <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-  <stop offset="0%" stop-color="#8BE9FD"/>
-  <stop offset="50%" stop-color="#EAFBFF"/>
+  <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#67E8F9"/>
+  <stop offset="50%" stop-color="#A5F3FC"/>
   <stop offset="100%" stop-color="#FFFFFF"/>
 </linearGradient>
 
