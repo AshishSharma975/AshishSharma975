@@ -17,27 +17,115 @@
 
   <!-- Background -->
   <rect width="100%" height="100%" fill="#070719"/>
-  <!-- Network Background -->
 
-<g opacity="0.3" stroke="#FBBF24" stroke-width="1">
+  
+<!-- NETWORK MESH -->
 
-  <line x1="80" y1="70" x2="180" y2="120"/>
-  <line x1="180" y1="120" x2="320" y2="80"/>
+<g opacity="0.22" stroke="#FBBF24" stroke-width="1">
 
-  <line x1="1080" y1="70" x2="1220" y2="120"/>
-  <line x1="1220" y1="120" x2="1350" y2="80"/>
+  <!-- Left Mesh -->
+  <line x1="30" y1="60" x2="90" y2="90"/>
+  <line x1="90" y1="90" x2="150" y2="70"/>
+  <line x1="90" y1="90" x2="120" y2="140"/>
+  <line x1="120" y1="140" x2="210" y2="120"/>
+  <line x1="150" y1="70" x2="260" y2="100"/>
+  <line x1="210" y1="120" x2="260" y2="100"/>
+  <line x1="260" y1="100" x2="340" y2="80"/>
+
+  <!-- Right Mesh -->
+  <line x1="1060" y1="80" x2="1140" y2="60"/>
+  <line x1="1140" y1="60" x2="1220" y2="90"/>
+  <line x1="1220" y1="90" x2="1290" y2="70"/>
+  <line x1="1220" y1="90" x2="1250" y2="150"/>
+  <line x1="1250" y1="150" x2="1340" y2="120"/>
+  <line x1="1290" y1="70" x2="1360" y2="100"/>
+  <line x1="1340" y1="120" x2="1360" y2="100"/>
 
 </g>
 
+<!-- NODES -->
+
 <g fill="#FBBF24">
 
-  <circle cx="80" cy="70" r="4"/>
-  <circle cx="180" cy="120" r="4"/>
-  <circle cx="320" cy="80" r="4"/>
+  <circle cx="30" cy="60" r="3">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
 
-  <circle cx="1080" cy="70" r="4"/>
-  <circle cx="1220" cy="120" r="4"/>
-  <circle cx="1350" cy="80" r="4"/>
+  <circle cx="90" cy="90" r="4">
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="150" cy="70" r="3">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="120" cy="140" r="4">
+    <animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="210" cy="120" r="3">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="260" cy="100" r="4">
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="340" cy="80" r="3">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- RIGHT -->
+
+  <circle cx="1060" cy="80" r="3">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1140" cy="60" r="4">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1220" cy="90" r="4">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1290" cy="70" r="3">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1250" cy="150" r="4">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1340" cy="120" r="4">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1360" cy="100" r="3">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+</g>
+
+<!-- PARTICLES -->
+
+<g fill="#FBBF24">
+
+  <circle cx="420" cy="50" r="1.5">
+    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="520" cy="90" r="1.5">
+    <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="720" cy="40" r="1.5">
+    <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="900" cy="70" r="1.5">
+    <animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite"/>
+  </circle>
 
 </g>
 
