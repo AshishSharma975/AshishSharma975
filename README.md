@@ -22,8 +22,8 @@ Full Stack & 3D Web Developer • Building AI-Powered Digital Experiences
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ashish8822/">
-    <img src="https://img.shields.io/badge/Ashish%20Sharma-111111?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Sharma-111111?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
