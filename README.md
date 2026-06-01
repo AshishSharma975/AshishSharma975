@@ -12,9 +12,21 @@
  
 Full Stack & 3D Web Developer • Building AI-Powered Digital Experiences
 
-📧 ashish8389sharma@gmail.com • 📱 +91 8827718774
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Sharma-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ashish8822/)
+<a href="mailto:ashish8389sharma@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-111827?style=for-the-badge" />
+</a>
+
+<a href="tel:+918827718774">
+<img src="https://img.shields.io/badge/📱%20Phone-Call%20Me-111827?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/ashish8822/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-111827?style=for-the-badge" />
+</a>
+
+</p>
 
 ---
 
