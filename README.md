@@ -13,7 +13,7 @@
 Full Stack & 3D Web Developer • Building AI-Powered Digital Experiences
 
 <p align="center">
-  <a href="mailto:ashish8389sharma@gmail.com">
+  <a href="mailto:ashish8389sharma@gmail.com?subject=Hello%20Ashish">
     <img src="https://img.shields.io/badge/ashish8389sharma%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
