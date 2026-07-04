@@ -17,10 +17,6 @@ Full Stack & 3D Web Developer • Building AI-Powered Digital Experiences
     <img src="https://img.shields.io/badge/ashish8389sharma%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="tel:+918827718774">
-    <img src="https://img.shields.io/badge/+91%208827718774-111111?style=flat-square&logo=googlevoice&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/ashish8822/">
   <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Sharma-111111?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
