@@ -39,9 +39,19 @@
 
 <td width="30%" valign="top">
 
-## 👨‍💻 About Me
+## 🐈‍⬛ Ashish's Corner
 
-I'm a **Full Stack & 3D Web Developer** passionate about building digital experiences that combine **technology, creativity and interaction**.
+<div align="center">
+
+<img src="./assets/animated-cat.gif" alt="Animated Developer Cat" width="180" />
+
+### 🐾 Hey, I'm Ashish!
+
+**Full Stack & 3D Web Developer**
+
+`⚡ Web` · `🌌 3D` · `🤖 AI` · `☁️ Cloud`
+
+</div>
 
 ### ⚡ What I Build
 
@@ -53,16 +63,7 @@ I'm a **Full Stack & 3D Web Developer** passionate about building digital experi
 
 <br />
 
-> **"I enjoy turning complex ideas into intuitive digital experiences."**
-
-<br />
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="./assets/achievement-1.png" width="90" />
-  <img src="./assets/achievement-2.png" width="90" />
-</p>
+> "I enjoy turning complex ideas into intuitive digital experiences."
 
 <br />
 
@@ -79,10 +80,6 @@ ashish8389sharma@gmail.com
 [ashish8822](https://www.linkedin.com/in/ashish8822/)
 
 <br />
-
-🐙 **GitHub**
-
-[AshishSharma975](https://github.com/AshishSharma975)
 
 </td>
 
