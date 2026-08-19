@@ -132,58 +132,40 @@ A full-stack project focused on building a **practical, scalable and user-friend
 </table>
 
 ---
-
 # 🛠️ Skills & Technologies
 
 <div align="center">
 
 ### 💻 Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,threejs,html,css,vite,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,react,threejs,html,css,vite,nodejs,express&perline=9" />
 
 ### 🗄️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&perline=4" />
 
 ### ☁️ Cloud & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&perline=3" />
 
 ### 🎨 Creative & Graphics
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,blender,photoshop" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,blender,photoshop&perline=3" />
 
 ### ⚡ Animation & Graphics
 
 <p>
-
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GLSL-FF4B8B?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+<img src="https://img.shields.io/badge/THREE.JS-000000?style=flat-square&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/WEBGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/GLSL-FF4B8B?style=flat-square" />
 </p>
 
 ### ⚙️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,postman&perline=3" />
 
 </div>
-
----
 
 ---
 
