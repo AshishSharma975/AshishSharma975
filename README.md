@@ -43,7 +43,11 @@
 
 <div align="center">
 
-<img src="./assets/animated-cat.gif" alt="Animated Developer Cat" width="180" />
+<img
+  src="./assets/animated-cat.gif"
+  alt="Ashish's Animated Cat"
+  width="180"
+/>
 
 ### 🐾 Hey, I'm Ashish!
 
@@ -63,8 +67,7 @@
 
 <br />
 
-> "I enjoy turning complex ideas into intuitive digital experiences."
-
+> **"I enjoy turning complex ideas into intuitive digital experiences."**
 <br />
 
 ## 📫 Connect
