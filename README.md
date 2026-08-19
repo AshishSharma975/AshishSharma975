@@ -229,16 +229,127 @@ A full-stack project focused on building a **practical, scalable and user-friend
 
 <div align="center">
 
-```text
-                 🌌
-          3D EXPERIENCES
-                 ↓
-        🎨 CREATIVE INTERFACES
-                 ↓
-         ⚡ WEB APPLICATIONS
-                 ↓
-        🤖 AI-POWERED PRODUCTS
-                 ↓
-          ☁️ CLOUD SYSTEMS
-                 ↓
-          🚀 DIGITAL EXPERIENCES
+### From an idea → to a complete digital experience.
+
+</div>
+
+<br />
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### `01`
+
+## 🌌 3D Experiences
+
+Interactive experiences built with
+
+**Three.js · WebGL · GLSL**
+
+<br />
+
+`Immersive` `Interactive` `Real-time`
+
+</td>
+
+<td align="center" width="33%">
+
+### `02`
+
+## ⚡ Web Applications
+
+Modern applications built with
+
+**React · Node.js · MongoDB**
+
+<br />
+
+`Scalable` `Responsive` `Full Stack`
+
+</td>
+
+<td align="center" width="33%">
+
+### `03`
+
+## 🤖 AI-Powered Products
+
+Intelligent products powered by
+
+**AI · APIs · Automation**
+
+<br />
+
+`Smart` `Adaptive` `Future-ready`
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center" colspan="3">
+
+<br />
+
+### `01` ━━━━━━━► `02` ━━━━━━━► `03`
+
+**CREATE** → **BUILD** → **INTELLIGENT EXPERIENCE**
+
+<br />
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🎨 Creative Layer
+
+UI / UX  
+Motion Design  
+3D Visuals  
+Micro Interactions
+
+</td>
+
+<td align="center">
+
+### ☁️ Engineering Layer
+
+APIs  
+Databases  
+Docker  
+Kubernetes  
+AWS
+
+</td>
+
+<td align="center">
+
+### 🚀 Experience Layer
+
+Performance  
+Scalability  
+Automation  
+Real-time Interaction
+
+</td>
+
+</tr>
+
+</table>
+
+<br />
+
+<div align="center">
+
+> **💡 I don't just build websites — I build experiences.**
+
+<br />
+
+`DESIGN` ✦ `CODE` ✦ `3D` ✦ `AI` ✦ `CLOUD`
+
+</div>
