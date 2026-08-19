@@ -28,9 +28,6 @@
   <a href="https://github.com/AshishSharma975">
     <img src="https://img.shields.io/badge/GitHub-AshishSharma975-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://jersy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 </div>
@@ -49,9 +46,9 @@ I'm a **Full Stack & 3D Web Developer** passionate about building digital experi
 ### ⚡ What I Build
 
 - 🚀 Scalable web applications
+- 🤖 AI-powered applications
 - 🌌 Interactive 3D experiences
 - 🎨 Modern & immersive interfaces
-- 🧠 AI-powered digital products
 - 🎬 Smooth animations & interactions
 
 <br />
@@ -91,89 +88,40 @@ ashish8389sharma@gmail.com
 
 <td width="70%" valign="top">
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 ---
 
-## 🎨 Blob Mixer
+## 🧩 Capstone
 
-### Interactive GLSL Experience
+### Full Stack Application
 
 <div align="center">
 
-<img src="./assets/blob-demo.gif" alt="Blob Mixer" width="95%" />
+<img src="./assets/capstone-preview.png" alt="Capstone Project" width="95%" />
 
 </div>
 
 <br />
 
-Real-time interactive blob deformation powered by **GLSL shaders, procedural noise and GPU rendering**.
+A full-stack project focused on building a **practical, scalable and user-friendly digital application** with a modern development workflow.
 
 ### ✨ Highlights
 
 | Feature | Description |
 |:---|:---|
-| 🌊 **GLSL Deformation** | Real-time shader-based deformation |
-| 🌀 **Noise Animation** | Dynamic procedural movement |
-| 🎨 **Blending** | Smooth color & shape transitions |
-| 🖱️ **Interaction** | Drag & sculpt interactions |
-| ⚡ **GPU Rendering** | High-performance WebGL experience |
+| ⚡ **Modern UI** | Clean and responsive user interface |
+| 🧩 **Full Stack** | Frontend + backend architecture |
+| 🔐 **Authentication** | Secure user-based functionality |
+| 🗄️ **Database** | Persistent application data |
+| 🚀 **Scalable** | Designed with real-world usage in mind |
 
 <br />
 
 <div align="center">
 
-<a href="https://lnkd.in/dBphVcUA">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00D9FF?style=for-the-badge" />
-</a>
-
-&nbsp;
-
-<a href="https://lnkd.in/dq_c6ENX">
-<img src="https://img.shields.io/badge/%3C%2F%3E%20SOURCE%20CODE-8A2BE2?style=for-the-badge" />
-</a>
-
-</div>
-
----
-
-## 🧥 3D Jersey Showcase
-
-### Interactive Product Viewer
-
-<div align="center">
-
-<img src="./assets/jersey-preview.gif" alt="3D Jersey Showcase" width="95%" />
-
-</div>
-
-<br />
-
-An immersive **3D product visualization experience** designed for interactive product exploration.
-
-### ✨ Highlights
-
-| Feature | Description |
-|:---|:---|
-| 🔄 **360° View** | Interactive product rotation |
-| 🎨 **Color Picker** | Change product colors |
-| 📍 **Hotspots** | Interactive product details |
-| 💡 **Lighting** | HDR-style lighting |
-| 🎵 **Music** | Interactive music toggle |
-| ⛶ **Fullscreen** | Immersive viewing mode |
-
-<br />
-
-<div align="center">
-
-<a href="https://jersy.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00FFA3?style=for-the-badge" />
-</a>
-
-&nbsp;
-
-<a href="https://lnkd.in/ddQSi8Ac">
-<img src="https://img.shields.io/badge/%3C%2F%3E%20SOURCE%20CODE-8A2BE2?style=for-the-badge" />
+<a href="https://github.com/AshishSharma975/Capstone">
+<img src="https://img.shields.io/badge/%3C%2F%3E%20SOURCE%20CODE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -192,7 +140,19 @@ An immersive **3D product visualization experience** designed for interactive pr
 ### 💻 Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,threejs,html,css,vite" />
+  <img src="https://skillicons.dev/icons?i=js,react,threejs,html,css,vite,nodejs,express" />
+</p>
+
+### 🗄️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
 </p>
 
 ### 🎨 Creative & Graphics
@@ -207,6 +167,8 @@ An immersive **3D product visualization experience** designed for interactive pr
 
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+
 <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
 
 <img src="https://img.shields.io/badge/GLSL-FF4B8B?style=for-the-badge" />
@@ -216,7 +178,7 @@ An immersive **3D product visualization experience** designed for interactive pr
 ### ⚙️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 </div>
@@ -276,5 +238,7 @@ An immersive **3D product visualization experience** designed for interactive pr
          ⚡ WEB APPLICATIONS
                  ↓
         🤖 AI-POWERED PRODUCTS
+                 ↓
+          ☁️ CLOUD SYSTEMS
                  ↓
           🚀 DIGITAL EXPERIENCES
