@@ -185,14 +185,24 @@ A full-stack project focused on building a **practical, scalable and user-friend
 
 ---
 
+---
+
 # 📊 GitHub Activity
 
 <div align="center">
 
+<!-- GitHub Stats -->
+
 <img
-  src="https://ghchart.rshah.org/AshishSharma975"
-  alt="Ashish Sharma GitHub Contributions"
-  width="95%"
+  src="https://github-readme-stats.vercel.app/api?username=AshishSharma975&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2"
+  height="180"
+/>
+
+<!-- Top Languages -->
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSharma975&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"
+  height="180"
 />
 
 </div>
@@ -201,27 +211,23 @@ A full-stack project focused on building a **practical, scalable and user-friend
 
 <div align="center">
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=AshishSharma975&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)
-
-</div>
-
-<br />
-
-<div align="center">
+<!-- Contribution Streak -->
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=AshishSharma975&theme=tokyonight&hide_border=true&background=0D1117"
-  height="170"
+  src="https://streak-stats.demolab.com/?user=AshishSharma975&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D9FF&currStreakLabel=00D9FF"
+  height="190"
 />
 
 </div>
 
 <br />
 
+<!-- Contribution Graph -->
+
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AshishSharma975&theme=tokyo-night&hide_border=true&bg_color=0D1117"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AshishSharma975&bg_color=0D1117&color=00D9FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"
   width="95%"
 />
 
