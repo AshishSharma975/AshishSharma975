@@ -190,14 +190,18 @@ A full-stack project focused on building a **practical, scalable and user-friend
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=AshishSharma975&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2"
-  height="170"
+  src="https://ghchart.rshah.org/AshishSharma975"
+  alt="Ashish Sharma GitHub Contributions"
+  width="95%"
 />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSharma975&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"
-  height="170"
-/>
+</div>
+
+<br />
+
+<div align="center">
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=AshishSharma975&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)
 
 </div>
 
